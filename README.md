@@ -13,7 +13,8 @@
 目前內容：
 
 - `line-bot-construction-fee/regulation/`：營建工程空氣污染防制法規宣導圖片
-- `shelfie-gas/branding/`：管家貓三隻角色原圖與 App 圖示
+- `shelfie-gas/branding/`：管家貓三隻角色、伯爵三種表情、品牌 logo、App 圖示
+  （各附 `-512.webp` 網頁版）
 - `shelfie-gas/onboarding/`：初次引導的視覺（茶會圖、介紹海報）
 
 ## 圖片來源
